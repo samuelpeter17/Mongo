@@ -1,0 +1,164 @@
+[{
+  "_id": {
+    "$oid": "64e503e410620c3a4b217b57"
+  },
+  "title": "Name of the Wind",
+  "author": "Patrick Rothfuss",
+  "pages": 500,
+  "genres": [
+    "fantasy",
+    "magical"
+  ],
+  "rating": 9,
+  "comments": [
+    {
+      "name": "Sheldon",
+      "comment": "I know better."
+    },
+    {
+      "name": "Sheldon",
+      "comment": "I told you so."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e505ec10620c3a4b217b59"
+  },
+  "title": "The Final Empire",
+  "author": "Brandon Sanderson",
+  "pages": 350,
+  "genres": [
+    "fantasy",
+    "dystopian"
+  ],
+  "rating": 9,
+  "comments": [
+    {
+      "name": "Emily",
+      "comment": "A timeless classic."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e505ec10620c3a4b217b5a"
+  },
+  "title": "The Way of Kings",
+  "author": "Brandon Sanderson",
+  "pages": 350,
+  "genres": [
+    "fantasy",
+    "dystopian"
+  ],
+  "rating": 9,
+  "comments": [
+    {
+      "name": "Stuart",
+      "comment": "Interesting."
+    },
+    {
+      "name": "Kripke",
+      "comment": "Noice."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e505ec10620c3a4b217b5b"
+  },
+  "title": "Shadow of the Wind",
+  "author": "Carlos Ruiz Zafon",
+  "pages": 1000,
+  "genres": [
+    "drama",
+    "mystery"
+  ],
+  "rating": 10,
+  "comments": [
+    {
+      "name": "Bernadette",
+      "comment": "Classic."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e526dede23f1d1491c3a6c"
+  },
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "pages": 500,
+  "rating": 10,
+  "genres": [
+    "drama",
+    "sci-fi"
+  ],
+  "comments": [
+    {
+      "name": "Leonard",
+      "comment": "Whaaat?"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e52519de23f1d1491c3a69"
+  },
+  "title": "The Color of Magic",
+  "author": "Terry Pratchet",
+  "pages": 300,
+  "rating": 7,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "comments": [
+    {
+      "name": "Howard",
+      "comment": "Mama."
+    },
+    {
+      "name": "Raj",
+      "comment": "Rich parents."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64e526dede23f1d1491c3a6b"
+  },
+  "title": "The Light Fantastic",
+  "author": "Terry Pratchet",
+  "pages": 250,
+  "rating": 6,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "comments": [
+    {
+      "name": "Penny",
+      "comment": "Bite me!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ecd9c989f8cc387d0346be"
+  },
+  "title": "A Farewell to Arms",
+  "author": "Ernest Hemingway",
+  "pages": 230,
+  "genres": [
+    "romance",
+    "war"
+  ],
+  "rating": 10,
+  "comments": [
+    {
+      "name": "Sheldon",
+      "comment": "I love this book."
+    }
+  ]
+}]
